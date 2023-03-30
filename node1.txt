@@ -1,0 +1,15 @@
+Node js -> 	
+		It is an asynchronous event-driven JavaScript runtime, designed to build scalable network applications. 
+		It is javascript runtime built on chromes v8 javascript engine.
+		Node js is usually used where your application is non-blocking, event driven, data intensive, I/O intensive. 
+		All the execution that happens in Node js environment is carried out by a single thread. Events getting added in a queue and that thread runs through queue to execute those.
+		It is used in web servers, api fronting Nosql databases, command line utilities, build tooling.
+
+
+
+
+Nvm ->	( Node Version Manager ) 
+
+		It allows us to manage the different version of nodes.
+		We can switch between the node versions.	
+		
